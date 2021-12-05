@@ -4,7 +4,7 @@
 <!-- <!https://github.com/DenverCoder1/readme-typing-svg-- </h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile; :3&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile; :3&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <!--
 **CamiaCL/CamiaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
