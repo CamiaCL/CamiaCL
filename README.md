@@ -1,7 +1,7 @@
-<h3 align="center">
-  Hi there 👋, I'm
-  <a href=”https://github.com/CamiaCL”><p> Amariev </p>(CamiaCL)</a>
-</h3>
+<!-- <h3 align="center"> -->
+    Hi there 👋, I'm [Amariev (CamiaCL)](https://github.com/CamiaCL)
+  <!-- <a href=”https://github.com/CamiaCL”>Amariev (CamiaCL)</a> -->
+<!-- </h3> -->
 
 <!--
 **CamiaCL/CamiaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
