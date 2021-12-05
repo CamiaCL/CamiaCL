@@ -1,6 +1,6 @@
 <h3 align="center">
   Hi there 👋, I'm
-  <a href=”https://github.com/CamiaCL”>Amariev (CamiaCL)</a>
+  <a href=”https://github.com/CamiaCL”><p> Amariev </p>(CamiaCL)</a>
 </h3>
 
 <!--
