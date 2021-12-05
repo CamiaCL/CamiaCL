@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Amariev (CamiaCL)](https://github.com/CamiaCL)]
+### Hi there 👋, I'm [Amariev (CamiaCL)](https://github.com/CamiaCL)
 
 <!--
 **CamiaCL/CamiaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
