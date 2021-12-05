@@ -3,9 +3,9 @@
   <!-- <a href=”https://github.com/CamiaCL”>Amariev (CamiaCL)</a> -->
 <!-- <!https://github.com/DenverCoder1/readme-typing-svg-- </h3> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile; :3&font=Fira%20Code&center=true&width=380&height=50">
-</p>
+</p> -->
 <!--
 **CamiaCL/CamiaCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
