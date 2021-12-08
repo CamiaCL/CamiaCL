@@ -18,7 +18,7 @@ jobs:
           committer_message: "chore: update metrics"
           
           # Display
-          template: classic
+          template: terminal
           base: header, activity, community, repositories
           
           plugin_isocalendar: yes
