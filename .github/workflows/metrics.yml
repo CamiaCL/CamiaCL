@@ -76,6 +76,15 @@ jobs:
           retries_delay: 300
           filename: amariev-metrics_right.svg
 
+        # "echo" returns true so the build succeeds, even if no changed files
+      - name: Commit to the repo
+        run: |
+          git config --global user.name "CamiaCL"
+          git config --global user.email "camilaclary@gmail.com"
+          git add .
+          git commit --amend --no-edit || echo
+          git push -f
+
 # name: Metrics
 # on:
 #   # Schedule updates (each hour)
