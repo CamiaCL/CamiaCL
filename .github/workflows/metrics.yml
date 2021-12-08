@@ -25,11 +25,11 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: SouthAmerica/Peru
+          committer_message: "chore: update metrics"
           config_twemoji: yes
           plugin_gists: yes
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_ignored: TSQL
           plugin_languages_limit: 99999999999999999999999
           plugin_languages_threshold: 0%
           plugin_languages_indepth: yes
@@ -59,6 +59,7 @@ jobs:
           user: CamiaCL
           template: classic
           config_timezone: SouthAmerica/Peru
+          committer_message: "chore: update metrics"
           config_twemoji: yes
           config_display: columns
           plugin_achievements: yes
