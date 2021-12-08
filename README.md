@@ -1,5 +1,23 @@
 <!-- <h3 align="center"> -->
   ### Hi there 👋, I'm [Amariev (CamiaCL)](https://github.com/CamiaCL)
+
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./github-metrics.svg">
+  </a>
+</p> 
+
+<!-- ![Metrics](https://metrics.lecoq.io/CamiaCL) -->
+
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=CamiaCL&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=CamiaCL&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CamiaCL&layout=compact&theme=dark" width = 400>
+</p>
+
+
+
   <!-- <a href=”https://github.com/CamiaCL”>Amariev (CamiaCL)</a> -->
 <!-- <!https://github.com/DenverCoder1/readme-typing-svg-- </h3> -->
 
@@ -21,7 +39,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![CamiaCL's github stats](https://github-readme-stats.vercel.app/api?username=CamiaCL&show_icons=true&theme=merko)](https://github.com/CamiaCL)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiaCL&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[
-
-<a href="https://github.com/CamiaCL/github-readme-activity-graph"><img alt="Amariev's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=CamiaCL&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>">
+<!-- 
+<a href="https://github.com/CamiaCL/github-readme-activity-graph"><img alt="Amariev's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=CamiaCL&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
