@@ -3,7 +3,7 @@
 
 <p align = "center">
   <img src="./assets/text.gif" alt="Hello?" width="100%">
-  <video src="./assets/a.mp4" width="640" height="480"></video>
+  <img src="./assets/a.gif" alt="Hello?" width="30%">
 </p>
 
 <p align="center">
