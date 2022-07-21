@@ -11,6 +11,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amariev&theme=react&ring=2BDD18&fire=DD2727&currStreakLabel=DD4D5E&sideLabels=DD636E" alt="streak" />
 </p>
 
+## 📊 Github stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stats github" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Amariev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amariev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
 <p align = "center">
   <img src="./assets/giphy.gif" alt="yeppp" width="30%">
 </p>
