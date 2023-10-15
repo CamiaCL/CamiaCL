@@ -18,7 +18,7 @@ Learning: AI, Biocomputing,
 Hobbies: Music, Guitar, Writing
 ```
 
-<table width="100%">
+<table width="100%" align="center">
     <thead>
         <tr>
             <th></th>
