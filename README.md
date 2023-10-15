@@ -1,13 +1,10 @@
-# claridelune's profile 🌙
+<h1>claridelune's profile 🌙</h1>
 
-```zsh
-> neofetch
-```
+<pre><code>&gt; neofetch</code></pre>
 
-<img align="left" src="assets/cat.gif" alt="Cat GIF" width="320" /> 
+<img align="left" src="assets/cat.gif" alt="Cat GIF" width="320" style="margin-right: 20px;" /> 
 
-```
-claridelune@github
+<pre><code>claridelune@github
 -------------------------
 OS: Manjaro Linux x86_64
 Shell: zsh 5.9
@@ -16,7 +13,7 @@ Languages: C++, python,
 Learning: AI, Biocomputing,
           Robotics
 Hobbies: Music, Guitar, Writing
-```
+</code></pre>
 
 <table width="100%" align="center">
     <thead>
