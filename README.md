@@ -15,6 +15,8 @@ Learning: AI, Biocomputing,
 Hobbies: Music, Guitar, Writing
 </code></pre>
 
+<br>
+
 <table width="100%" align="center">
     <thead>
         <tr>
